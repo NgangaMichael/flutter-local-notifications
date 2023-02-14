@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958548073689",
+    "project_id": "localnotifications-83311",
+    "storage_bucket": "localnotifications-83311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958548073689:android:f48f3fff2384e07ff632c8",
+        "android_client_info": {
+          "package_name": "com.example.localnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958548073689-ojsdfvdovk2iri8sj508uo61sghfo4jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7C7ryEvVDjukjt4wepKClKZ68X6Lhu7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958548073689-ojsdfvdovk2iri8sj508uo61sghfo4jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
