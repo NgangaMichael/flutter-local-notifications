@@ -20,12 +20,6 @@ class MyApp extends StatelessWidget {
       print(value);
     });
 
-    // FirebaseMessaging.onMessage.listen((RemoteMessage message) {
-    //   RemoteNotification? notification = message.notification;
-    //   AndroidNotification? android = message.notification?.android;
-    //   print("Notification received: $notification");
-    // });
-
     FirebaseMessaging.onMessage.listen((RemoteMessage message) {
       print('Got a message whilst in the foreground!: $message');
       print('Message data: ${message.data}');
