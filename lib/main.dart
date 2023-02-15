@@ -49,7 +49,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-Future<void> myBackgroundMessageHandler(RemoteMessage message) async {
-  print("Message in background: $message");
-}
